@@ -123,6 +123,9 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# Images
+*.png
+
 # PyBuilder
 .pybuilder/
 target/
